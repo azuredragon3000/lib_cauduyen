@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lib_cauduyen</string>
+
+    <string name="action_settings">setting</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">DashBoard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="fragcauduyen_loikhuyennguyetlao">xin lời khuyên từ Nguyệt Lão</string>
+
+</resources>
